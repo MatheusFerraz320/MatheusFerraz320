@@ -44,18 +44,6 @@ Atualmente trabalho principalmente com o ecossistema **TypeScript/JavaScript**, 
 * Vercel
 * Render
 
-## 💼 Experiência
-
-**Full Stack Developer — Inside the Box**
-
-Atuação no desenvolvimento e manutenção de aplicações utilizando React, React Native, Next.js, TypeScript, NestJS e Express.js.
-
-Anteriormente atuei como **QA Engineer**, trabalhando com testes de APIs, debugging, análise de logs e identificação de bugs, antes da transição para desenvolvimento Full Stack.
-
-**Full Stack Developer Intern — B2 Marketing Industrial**
-
-Desenvolvimento de aplicações web, landing pages e sistemas internos utilizando React, Next.js, TypeScript, NestJS, Express.js e PostgreSQL.
-
 ## 🎓 Formação
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
