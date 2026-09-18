@@ -16,6 +16,7 @@ Atualmente trabalho principalmente com o ecossistema **TypeScript/JavaScript**, 
 * TypeScript
 * Tailwind CSS
 * HTML5 / CSS3
+* Astro
 
 **Backend**
 
@@ -31,6 +32,7 @@ Atualmente trabalho principalmente com o ecossistema **TypeScript/JavaScript**, 
 * PostgreSQL
 * MySQL
 * Prisma ORM
+* SQLite 
 
 **Testes & Ferramentas**
 
@@ -53,31 +55,6 @@ Anteriormente atuei como **QA Engineer**, trabalhando com testes de APIs, debugg
 **Full Stack Developer Intern — B2 Marketing Industrial**
 
 Desenvolvimento de aplicações web, landing pages e sistemas internos utilizando React, Next.js, TypeScript, NestJS, Express.js e PostgreSQL.
-
-## 🚀 Projetos
-
-### ArchitectureFlow
-
-Plataforma Full Stack para gerenciamento de projetos arquitetônicos e comunicação entre arquitetos e clientes.
-
-**Stack:** Next.js • NestJS • TypeScript • Prisma • PostgreSQL • JWT
-
-* API REST estruturada em arquitetura em camadas
-* Autenticação utilizando JWT e cookies httpOnly
-* Controle de acesso baseado em papéis
-* Frontend desenvolvido com Next.js e TypeScript
-* Deploy com Vercel e Render
-
-### Classificador de E-mails com IA
-
-API para classificação automática de e-mails utilizando processamento baseado em IA.
-
-**Stack:** Python • FastAPI • JavaScript • Tailwind CSS
-
-* API REST
-* Validação de requisições
-* Documentação com Swagger
-* Deploy em produção
 
 ## 🎓 Formação
 
