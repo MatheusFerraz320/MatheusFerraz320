@@ -1,16 +1,108 @@
-## Hi there 👋
+# Olá, eu sou Matheus Ferraz 👋
 
-<!--
-**MatheusFerraz320/MatheusFerraz320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React • Next.js • TypeScript • Node.js • NestJS
 
-Here are some ideas to get you started:
+Desenvolvedor Full Stack com experiência profissional no desenvolvimento e manutenção de aplicações web, APIs REST e sistemas internos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho principalmente com o ecossistema **TypeScript/JavaScript**, atuando no frontend e backend com foco em código organizado, debugging, integração de APIs e bancos de dados relacionais.
+
+## 🛠️ Tecnologias
+
+**Frontend**
+
+* React
+* Next.js
+* React Native
+* TypeScript
+* Tailwind CSS
+* HTML5 / CSS3
+
+**Backend**
+
+* Node.js
+* NestJS
+* Express.js
+* FastAPI
+* REST APIs
+* JWT
+
+**Banco de dados**
+
+* PostgreSQL
+* MySQL
+* Prisma ORM
+
+**Testes & Ferramentas**
+
+* Postman
+* Cypress
+* Git / GitHub
+* GitHub Actions
+* Docker
+* Vercel
+* Render
+
+## 💼 Experiência
+
+**Full Stack Developer — Inside the Box**
+
+Atuação no desenvolvimento e manutenção de aplicações utilizando React, React Native, Next.js, TypeScript, NestJS e Express.js.
+
+Anteriormente atuei como **QA Engineer**, trabalhando com testes de APIs, debugging, análise de logs e identificação de bugs, antes da transição para desenvolvimento Full Stack.
+
+**Full Stack Developer Intern — B2 Marketing Industrial**
+
+Desenvolvimento de aplicações web, landing pages e sistemas internos utilizando React, Next.js, TypeScript, NestJS, Express.js e PostgreSQL.
+
+## 🚀 Projetos
+
+### ArchitectureFlow
+
+Plataforma Full Stack para gerenciamento de projetos arquitetônicos e comunicação entre arquitetos e clientes.
+
+**Stack:** Next.js • NestJS • TypeScript • Prisma • PostgreSQL • JWT
+
+* API REST estruturada em arquitetura em camadas
+* Autenticação utilizando JWT e cookies httpOnly
+* Controle de acesso baseado em papéis
+* Frontend desenvolvido com Next.js e TypeScript
+* Deploy com Vercel e Render
+
+### Classificador de E-mails com IA
+
+API para classificação automática de e-mails utilizando processamento baseado em IA.
+
+**Stack:** Python • FastAPI • JavaScript • Tailwind CSS
+
+* API REST
+* Validação de requisições
+* Documentação com Swagger
+* Deploy em produção
+
+## 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+UNIASSELVI — conclusão prevista para 06/2027
+
+## 📚 Estudos e interesses
+
+Atualmente aprofundando conhecimentos em:
+
+* Arquitetura de software
+* POO e princípios SOLID
+* NestJS e desenvolvimento de APIs
+* PostgreSQL e modelagem de dados
+* React / Next.js
+* Testes automatizados
+* Inteligência Artificial aplicada ao desenvolvimento
+
+## 🌎 Idiomas
+
+* Português — Nativo
+* Inglês — Avançado
+* Espanhol — Intermediário
+* Italiano — Intermediário
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/matheus-ferraz-6a1525379/) • [Portfólio](https://portfolio-project-navy-alpha.vercel.app/)
