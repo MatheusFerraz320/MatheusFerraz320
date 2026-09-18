@@ -69,7 +69,7 @@ Atualmente aprofundando conhecimentos em:
 * POO e princípios SOLID
 * NestJS e desenvolvimento de APIs
 * PostgreSQL e modelagem de dados
-* React / Next.js
+* Cybersecurity
 * Testes automatizados
 * Inteligência Artificial aplicada ao desenvolvimento
 
